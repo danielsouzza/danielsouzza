@@ -1,4 +1,4 @@
-## Ola, sou o Daniel L.S estudante de Ciência da computação !!
+## Ola, sou o Daniel estudante de Ciência da computação !!
 <div>
   <a href="https://github.com/danielsouzza/danielsouzza">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=danielsouzza&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
