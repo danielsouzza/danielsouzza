@@ -1,4 +1,7 @@
-## Olá, sou o Daniel estudante de Ciência da computação !!
+![Header](./github-header-image.png)
+
+##
+
 <div align="center">
   <a href="https://github.com/danielsouzza">
   <img width="48.5%" src="https://github-readme-stats.vercel.app/api?username=danielsouzza&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
